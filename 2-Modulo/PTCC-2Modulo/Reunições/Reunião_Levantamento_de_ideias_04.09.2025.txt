@@ -1,0 +1,27 @@
+DATA: 04/09/2025.
+Inicio: 19:30.
+Fim: 20:12
+Local: ETEC - Lab 1º
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;(faltou)
+
+Tema:Levantamento de ideias
+
+Assuntos discutidos:
+Foi realizado um levantamento de ideias por meio da técnica de Brainstorming, com o objetivo de identificar a principal dor relacionada ao tema e, a partir disso, levantar ideias sobre o trabalho
+
+Conclusão:
+Após a atividade de Brainstorming, identificamos o problema central a ser abordado no TCC: “a saúde de idosos”. A partir dessa definição, organizamos algumas ideias que estavam no esboço da primeira atividade e as adicionamos nas novas propostas levantadas durante o processo de discussão.
+Proxima reunião:
+
+
+Proxima reunião:
+Tema: Levantamento de requisitos 
+Dia: 0/0/2025
+Horario: 19:30
+Local: ETEC - Mesas do 1ºAndar.

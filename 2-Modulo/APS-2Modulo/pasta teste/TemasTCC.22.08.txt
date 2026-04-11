@@ -1,0 +1,24 @@
+﻿Detector de Padrões:
+
+Aplicação/extensão com foco em mapear o algoritmo, posts e os comentários em redes sociais, a fim de reduzir que crianças sejam associadas a conteúdos explícitos e banir contas com comportamento suspeito associadas a conteúdos específicos.
+a Aplicação atuará em ex: publicações de menores de idade, vídeos,  contas e comentários dos perfis,  assim barrando o algoritmo de exibir esse tipo de conteudo para contas de pessoas más intencionadas.
+
+
+Plataforma de inglês:
+
+Criar uma plataforma cujo o objetivo é desenvolver e adaptar o seu nível de inglês para o nivel mercado de trabalho global e regional, mais conhecido como nivel B2, 
+usados aplamente no mercado de trabalho tanto fora do país, quanto para cargos melhores em eempresa regionais.
+
+
+Aplicativo de orientação e auxílio de medicamentos:
+
+Assistência no uso de medicamentos de forma organizada, com foco no fácil acesso para idosos.
+
+Um aplicativo e site com intuito de auxiliar o consumo de medicamentos, emitindo alertar para o consumos de remédio, otimizando a gestão de aplicações, dosagens e consumos de medicamentos, e facilita a 
+comunicação entre o médicos e o pacientes possibilitando uma emissão de receitas através do aplicativo. Com o aval do médico.
+
+
+
+Metaverso (Simuladores voltados a faculdade de medicina)
+ 
+Um software que possibilita uma simulação através do óculos de realidade aumentada com intuito de simular experiências e contribuir com com estudos/ teoria em faculdades de medicina.

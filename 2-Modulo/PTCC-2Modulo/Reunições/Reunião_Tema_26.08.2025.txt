@@ -1,0 +1,34 @@
+DATA: 26/08/2025.
+Inicio: 19:30.
+Fim: 20:08.
+Local: ETEC - Mesas do 1ºAndar.
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos (Faltou).
+
+Assuntos discutidos: Decisão dos temas para o Trabalho de Conclusão de Curso.
+
+Temas propostos:
+
+Raí - Aplicativo/Site com o objetivo de desenvolver o nivel de ingles tecnico (b1) para o mercado de trabalho.
+
+Julia - Filtro com o objetivo de limitar conteudo para contas, protegendo a imagens de crianças/adolecentes.
+
+Flavio - Aplicativo/Site com objetico de auxiliar os idosos e cuidadores, enviando os dados aos hospitais.
+
+Vinicius - Faltou.
+
+Conclusão: 
+Discutimos e escolhemos a ideia do Aplicativo/Site com objetivo de auxiliar os idosos e cuidadores como ideia principal para o TCC
+
+
+Proxima reunião:
+Assuntos que serão discutidos: Escolha do facilitador (Scrum Master)
+Dia: 28/08/2025
+Horario: 19:30
+Local: ETEC - Laboratorio 1
+

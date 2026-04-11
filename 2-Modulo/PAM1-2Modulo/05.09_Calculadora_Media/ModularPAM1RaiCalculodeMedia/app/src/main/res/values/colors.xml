@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fundo">#CCEFE7</color>
+    <color name="campo">#90ABAB</color>
+    <color name="botao">#658A88</color>
+
+
+</resources>

@@ -1,0 +1,25 @@
+DATA: 25/09/2025.
+Inicio: 21:40
+Fim: 22:20
+Local: ETEC - Lab 2
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;(faltou)
+
+Tema:  Organização sobre a apresentação do dia 02/10
+
+Assuntos discutidos: conversamos sobre outras ideias que apareceram para o layout da aplicação mobile e conversamos sobre a apresentação
+
+Conclusão:
+definimos o que cada um vai apresentar, o tema das pesquisas, informações sobre o TCC (cores, logo, fonte) 
+
+
+Proxima reunião:
+Tema: Apresentação das pesquisa e revisão da apresentação
+Dia: 30/09/2025
+Horario: 19:40
+Local: ETEC - Lab 2

@@ -1,0 +1,22 @@
+Data: 09/09/2025.
+Inicio: 20:05.
+Fim: 
+Local: ETEC - Lab 1 
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;(faltou)
+
+Assuntos discutidos: Levantamento de requisitos 
+
+Conclusão: Apos um Brainstorming e levantamento de ideias dentro do esboço da primeira atividade, concluimos com varias ideias para tanto de requisitos funcionais, quanto requisitos nao funcionais
+
+
+Proxima reunião:
+Tema:
+Dia: 11/09/2025
+Horario: 19:30
+Local: ETEC - Lab2

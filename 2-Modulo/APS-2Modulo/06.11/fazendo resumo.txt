@@ -1,0 +1,135 @@
+requisitos é o processo de adquirir , refinar e validar as necessidades do sistema, informações indicadas pelo cliente 
+
+com objetivo de saber oque o aplicativo vai fazer e como vai funcionar 
+
+oque é um requisito? o conujunto das funcionarilidades que o software vai faz com o objetivo de resolver um problema, tambem da pra se entender como "oque o sistema vai fazer"
+
+tambem precisa especificar tudo oque o projeto vai ter, composto de:
+funções que o sistema deve ter (os resquisos)
+limitações sobre as quais o sistema deve operar 
+com oque o seu sistema vai se conectar(por exemplo um BD)
+limitações no desenvolvimento do sistema
+descrições sobre o hardware que seu sistema vai usar(nao precisa fazer algo mt bom para ser usado em computadores mais lentos)
+
+requisitos funcional
+descrevem as funções que o sistema vai fazer(a maioria das coisas que o cliente vai te pedir)
+(dica: se a função depende de um banco de dados, o requisito vai ser funcional)
+
+
+exemplos1:
+o software deve possibilitar o calculo dos gastos mensais e anuias com material
+(a palavra calculo é uma função, ou seja, é um requisito funcional.)
+
+exemplo2:
+o software deve emitir relatorio de compras a cada quinze dias
+(a palavra emitir relatorio é uma função, entao é a msm coisa, uma função)
+
+exemplo3:
+os usuarios do sistema escolar poderão consulta as suas notas e faltas registradas em todas as discuplinas
+(fazer uma consulta (mexendo com BD) sobre suas notas e faltas, informações aonde usam calculo, ou seja, funcional)
+
+
+requisitos nao funcional
+oposto dos funcionais, são requisitos que nao dizem respeito a funcionalidade de um sistema, que geralmente indicam resquitções do sistema
+
+exemplos 1:
+segurança, associados a integridade das informações dos usuarios
+
+
+desempenho, mostra o tempo de resposta do sistema 
+(isso pode depender bastante do pc da pessoa, entao nao depende do software)
+
+usuabilidade, associado a facilidade de uso ao sistema
+(é mais ligado ao design, isso vai fazer as pessoas entenderem como funciona cada coisa dentro do site de forma mais facil)
+
+confiabilidade, tem a ver com a tolerancia de falhas, e como o sistema vai se recuperar dessas falhas
+(nao é exatamente programavel, mas mesmo assim o sistema pode tem alguns problemas mesmo com o codigo perfeito)
+
+hardware e software, fala sobre os software e hardwares ultilizados no sistema
+(se os computados da empresa aonde voce vai colocar essa aplicação estão todos com windows 7, é necessario fazer um software que seja funcione de maneira adequada para esse sistema)
+
+exemplo 2: 
+a base de dados deve ser protegida para permitir acesso apenas aos usuarios autorizados
+
+exemplo 3:
+o tempo de resposta do sistema nao deve ultrapassar 30 segundos
+
+exemplo 4:
+o software precisa rodar em linux
+
+exemplo5:
+o tempo de desenvollvimento nao deve passar de 6 meses
+
+exemplo 6:
+o banco de daos devera ser oracle
+
+
+
+
+
+
+
+
+video 2 
+
+As 7 tecnicas para levantamento de requisito
+são formas de coletar informações sobre o sistema, com o objetio de levantar informações que serão uteis para resolver problemas encontrados 
+
+as tecnicas para levantamento de requisitos dificilmente são utilizadas isoladamente, elas se complementam 
+
+1-Brainstorm
+É necessario varias pessoas, e se consiste em varias pessoas discutindo sobre ideias, com o objetivo de encontrar o maximo de soluções para melhoria ou resolução de um problema possiveis em um periodo de tempo pequeno
+todas as ideias devem ser consideradas independente de como ela seja, pois essas ideias podem trazer inspuirações para novas ideias
+
+2-Entrevista
+é uma conversa direcionada, usando um formato de "pergunta-resposta", com prosoito de levantar informações e esclarecer duvidas, trazendo perguntas antes da reunião e tendo cuidado com a pergunta, para conseguir uma melhor resposta, e no final, precisa gerar um documento com as informações que voce achou
+
+3-Questionario
+tecnica usada para conseguir informações de uma grande quantidade de pessoas, geralmente usando perguntas acertivas (sim ou nao) autoaplicaveis, podendo ser virtualmente ou fisicamente
+esse questionario deve ser preparado antecipadamente com questões objetivas 
+no video, ele cita o Net Promoter Score , uma forma de questionario usado para avaliar algo de 1 - 10 para 
+
+4-Observação Direta
+visitar o local de trabalho do cliente com o objetivo de observar os usuarios executando suas tarefas sem nenhuma interferencia do analista, que permite coletar informações reais das operações diarias do local
+o analista vai fazer anotações detalhadas sobre oque esta acontecendo, sendo util para confirmar o resultado de outras tecnicas de levantamentos 
+
+5-Analise documental
+ele estuda os documentos com o objetivo de identificar os requisitos que irao ser implementados no sistema, uma grande variedade de documentos podem ser analizados, incluindo a estrutura de organização da empresa , leis , manuais de usuarios , relatorios e formularios
+exemplos: copias de documentos branco ou preenchidos 
+
+6-Reutilização de Requisitos
+consiste em analizar e se aproveitar de projetos de outros sistemas com funções similares, apesar de cada sistema ter suas proprias funcionalidades, existe a possibilidade de reutilizar o mesmo requisito
+
+7-Prototipação
+se consiste em uma versão prototiposendo executavel ou nao, aonde o objetivo seja a aprovação por parte do cliente/usuario, essa é a forma concreta aos requisitos, que vai gerar satisfação aos usuarios gerando uma sensação de segurança ao ver o projeto proximo do reale oferendo a oportunidade de experimentar o aplicativo antes de sua versão final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

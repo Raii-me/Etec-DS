@@ -1,0 +1,15 @@
+CREATE DATABASE bdpw3;
+USE bdpw3;
+
+CREATE TABLE demo(
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(255),
+idade INT(3),
+CPF VARCHAR(11),
+abrir VARCHAR(40),
+dobrar VARCHAR(40)
+);
+
+drop table demo;
+
+SELECT * FROM demo;

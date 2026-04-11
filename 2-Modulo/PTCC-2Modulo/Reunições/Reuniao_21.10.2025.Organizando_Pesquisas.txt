@@ -1,0 +1,22 @@
+DATA: /0/2025.
+Inicio:  (COLOCAR ALGO AQ)
+Fim:  (COLOCAR ALGO AQ)
+Local: ETEC - Lab 1
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;
+
+Assuntos discutidos: (COLOCAR ALGO AQ)
+
+Conclusão:  (COLOCAR ALGO AQ) 
+
+
+Proxima reunião:
+Tema: (COLOCAR ALGO AQ)
+Dia: /0/2025 (COLOCAR ALGO AQ)
+Horario: 19:30
+Local: ETEC - Lab 1

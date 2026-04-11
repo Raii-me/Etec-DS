@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Tela de cadastro"
+        android:textColor="#5C86E9"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView android:id="@+id/txt_nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nome:"
+        android:textSize="24sp"
+        android:textColor="#5C86E9"
+        app:layout_constraintTop_toBottomOf="@id/banner"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        />
+    
+    <EditText android:id="@+id/edt_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_nome"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:hint="Ex.: Andréia da Silva"
+        />
+
+    <TextView android:id="@+id/txt_cpf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CPF:"
+        android:textSize="24sp"
+        android:textColor="#5C86E9"
+        app:layout_constraintTop_toBottomOf="@id/edt_nome"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        />
+
+    <EditText android:id="@+id/edt_cpf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_cpf"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:hint="Ex.: 000.000.000-00"
+        />
+
+    <TextView android:id="@+id/txt_dataN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data de Nascimento:"
+        android:textSize="24sp"
+        android:textColor="#5C86E9"
+        app:layout_constraintTop_toBottomOf="@id/edt_cpf"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        />
+
+    <EditText android:id="@+id/edt_dataN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_dataN"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:hint="Ex.: 11/11/1111"
+        />
+
+    <TextView android:id="@+id/txt_nomeM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nome da mãe:"
+        android:textSize="24sp"
+        android:textColor="#5C86E9"
+        app:layout_constraintTop_toBottomOf="@id/edt_dataN"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        />
+
+    <EditText android:id="@+id/edt_nomeM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_nomeM"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:hint="Ex.: Andréia da Silva"
+        />
+
+    <Button android:id="@+id/Cont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FF9800"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Continuar"
+        android:textSize="15sp"
+        app:cornerRadius="5dp"
+        />
+
+    <Button android:id="@+id/Voltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@id/Cont"
+        android:textColor="#FF9800"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Voltar"
+        android:textSize="15sp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

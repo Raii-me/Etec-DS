@@ -1,0 +1,82 @@
+Lista de Requisitos funcionais(oque o sistema vai executar):
+
+
+-Prover uma tela de cadastro de usuario;
+-Prover uma tela de login de usuario;
+-Prover uma forma de recuperar a senha atravez do email;
+-Prover uma tela para exibir seu perfil;
+-Prover relatorio de medicamentos;
+-Prover telas para marcar consultas;
+-Emitir telas para revisar consultas;
+-Emitir alertas usando notificações; 
+-Prover uma tela para agendar exames e consultas;
+-Exibir uma tela com o historico de exames medicos;
+-Prover uma leitura usando vozes pré-definidas;
+-Prover uma tela de contato com medico;
+-Prover um botão de ajuda (conexão com bombeiros/delegacia/hospitais);
+-Prover uma area de contato dos familiares com os medicos;
+-Prover uma conexão com hospitais e farmacias 
+-Exibir uma interface com registros de pressão arterial/Frequencia cardiaca;
+-Prover uma tela para solicitar medicamentos;
+-Prover uma tela com receitas de medicamentos;
+-Prover uma versão para site e outra versão para aplicativo
+-Prover notificações em forma de lembretes para datas sobre ;consultas(1 semana, 3 dias antes, 1 dia antes e no dia)
+-Prover notificações em forma de lembretes para tomar remedios ;
+-Prover notificações em forma de lembretes para tomar agua e se alimentar em horarios especificos;
+-Prover notificações em forma de lembretes com previsões para baixas unidades de medicamentos;
+-Prover uma tela sobre informações do site;
+
+
+
+Lista de Requisitos Não Funcionais:
+-O aplicativo deve prover uma segurança funcional;
+-O aplicativo deve prover opções de Acessibilidade (Fontes maiores, Contraste baixo);
+-O aplicativo deve prover informações sobre o paciente;
+-O aplicativo deve prover uma tela simples e de facil manuseio;
+-O aplicativo deve prover compatibilidade com outros modelos de celulares;
+-O aplicativo deve prover se adequar ao perfil do usuario;
+-O aplicativo deve prover a mudanças nas suas informações;
+-O aplicativo deve prover uma area de suporte para duvidas(por meio de telefone e redes sociais);
+-O aplicativo deve prover uma area com suporte 24 horas;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

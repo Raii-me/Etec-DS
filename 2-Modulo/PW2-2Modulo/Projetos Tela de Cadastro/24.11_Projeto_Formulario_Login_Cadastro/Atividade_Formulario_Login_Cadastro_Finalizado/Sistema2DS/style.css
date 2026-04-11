@@ -1,0 +1,187 @@
+body {
+    background-color: rgb(200, 219, 236);
+}
+
+.meio {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+.caixaHome {
+    background-color: rgb(116, 173, 223);
+    padding-bottom: 7%;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid rgb(87, 88, 116);
+    border-radius: 15px;
+}
+
+.titulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.borda {
+    border: solid 2px black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(200, 219, 236);
+    text-decoration: none;
+
+}
+
+.texto1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.borda:hover {
+    background-color: rgb(180, 200, 220);
+    transition: background-color 0.4s ease;
+}
+
+.botaoVoltar {
+    margin-top: 1%;
+    border: 1px solid black;
+    background-color: red;
+    border-radius: 5px;
+    width: fit-content;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    width: 83px;
+}
+
+.botaoCadastrar {
+    margin-top: 7%;
+    border: 1px solid black;
+    background-color: rgb(74, 122, 233);
+    width: fit-content;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    width: 83px;
+}
+
+.botaoLogin {
+    margin-top: 7%;
+    border: 1px solid black;
+    background-color: rgb(126, 243, 134);
+    width: fit-content;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    width: 83px;
+}
+
+.botaoVoltar:hover {
+    text-decoration: none;
+    background-color: rgb(119, 20, 19);
+    color: rgb(255, 255, 255);
+    transition: background-color 0.4s ease;
+}
+
+.botaoCadastrar:hover {
+    text-decoration: none;
+    background-color: rgb(134, 157, 207);
+    color: rgb(255, 255, 255);
+    transition: background-color 0.4s ease;
+}
+
+.botaoLogin:hover {
+    text-decoration: none;
+    background-color: rgb(89, 142, 92);
+    color: rgb(255, 255, 255);
+    transition: background-color 0.4s ease;
+}
+
+.caixaCadastro {
+    background-color: rgb(166, 204, 237);
+    padding-bottom: 7%;
+    padding-left: 11px;
+    padding-right: 11px;
+    border: 2px solid rgb(87, 88, 116);
+    border-radius: 15px;
+
+}
+
+.text {
+    margin-top: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type="text"] {
+    /* cor do texto que o usuario cloca*/
+    color: rgb(0, 0, 0);
+
+}
+
+input[type="text"]:placeholder {
+    /* cor do placeholder */
+    color: gray;
+}
+
+input[type="date"] {
+    /* cor do placeholder */
+    color: gray;
+    width: 165px;
+}
+
+.caixaLogin {
+    background-color: rgb(166, 204, 237);
+    padding-bottom: 7%;
+    padding-left: 11px;
+    padding-right: 11px;
+    border: 2px solid rgb(87, 88, 116);
+    border-radius: 15px;
+}
+
+.tituloPrincipal {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin-left: 1%;
+    font-size: 30px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(116, 173, 223);
+    border: 2px solid black;
+}
+
+.botaoSair {
+    margin-top: 1%;
+    border: 1px solid black;
+    background-color: rgb(174, 245, 224);
+    border-radius: 5px;
+    width: 83px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+}
+
+.botaoSair:hover{
+    text-decoration: none;
+    background-color: rgb(84, 141, 87);
+    color: rgb(255, 255, 255);
+    transition: background-color 0.4s ease;
+}

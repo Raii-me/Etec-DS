@@ -1,0 +1,19 @@
+DATA: 07/10/2025.
+Inicio: 19:30
+Fim: 20:40
+Local: ETEC - Lab 1
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+
+Conclusão: O grupo encontrou novos temas de pesquisa e agora vai se organizar para colocá-los em prática. A ideia é dividir as tarefas, planejar os próximos passos e começar a desenvolver cada tema com mais foco e organização.
+
+
+Proxima reunião:
+Tema: Entrega das pesquisas
+Dia: 09/10/2025 
+Horario: 21:00
+Local: ETEC - Lab 1

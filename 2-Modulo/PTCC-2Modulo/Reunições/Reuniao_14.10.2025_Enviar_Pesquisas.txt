@@ -1,0 +1,18 @@
+DATA: 14/10/2025.
+Inicio: 19:30
+Fim: 20:40
+Local: ETEC - Lab 1
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+
+Assuntos discutidos:O grupo se dedicou a enviar os resumos e o arquivo principal, além de aprender melhor como fazer pesquisas, tanto usando ferramentas de IA quanto de forma tradicional. Foi um momento importante para entender diferentes jeitos de buscar informações e deixar o trabalho mais completo.
+
+Proxima reunião:
+Tema: ???
+Dia: 16/10/2025 
+Horario: 21:00
+Local: ETEC - Lab 1

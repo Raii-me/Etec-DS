@@ -1,0 +1,24 @@
+DATA: 28/08/2025.
+Inicio: 19:30.
+Fim: 20:10.
+Local: ETEC - Mesas do 1ºAndar.
+
+Equipe_03.
+Membros:
+Raí Vicencio;
+Flavio Henrique;
+Julia Tenorio;
+Vinicius Matos;
+
+Assuntos discutidos: Decisão do Scrum Master do nosso trabalho de conclusão de curso
+
+Conclusão: 
+Discutimos e escolhemos a Scrum Master do nosso TCC vai ser a Julia Tenorio
+
+
+Proxima reunião:
+Assuntos que serão discutidos: Entrega da primeira atividade (Desenho sobre o tema principal do TCC)
+Dia: 02/09/2025
+Horario: 19:30
+Local: ETEC - Mesas do 1ºAndar.
+

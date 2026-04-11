@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modular PAM1 app Fitness Rai</string>
+    <string name="imc">IMC</string>
+    <string name="imc_desk">IMC é a sigla para indice de massa corporal que serve para avaliar o peso do individuo em relação a sua altura e assim indicar se esta dentro do peso ideal, acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
+    <string name="PESO">Peso (KG)</string>
+    <string name="ALTURA">Altura (X.XX)</string>
+    <string name="calc">Calcular</string>
+</resources>
+

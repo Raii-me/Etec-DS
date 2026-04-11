@@ -1,0 +1,79 @@
+Lista de Requisitos funcionais(oque o sistema vai executar):
+
+Relatorio de medicamentos
+Prover consultas 
+Emitir alertas 
+Exibir historico de exames
+Leitura com comandos de vozes
+Contato com medico
+Botão de ajuda
+Contato com familiares
+Conexão com hospitais
+Registros de pressão arterial / frequencia cardiaca
+Gerar receitas de medicamentos 
+Solicitar medicamentos
+Site e aplicativo
+Agendamento de consultas remotamente
+
+|ºFunções da aplicação
+|-Prover tela de login / cadastro
+|-Recuperar senhas
+|-Exibir perfil
+
+|°lembretes 
+|-consultas (uma semana e 1 dia antes)
+|-para tomar medicamentos
+|-tomar agua 
+|-de previsões de baixas unidades de medicamentos
+
+
+
+Lista de Requisitos Não Funcionais:
+O aplicativo deve ser seguro
+O aplicativo deve ter opções de Acessibilidade (Fontes maiores, Contraste baixo)
+O aplicativo deve mostrar informações sobre o paciente
+O aplicativo deve ter uma tela simples e de facil manuseio
+O aplicativo deve ser compativel com outros modelos de celulares
+O aplicativo deve adaptado a computadores e celulares
+O aplicativo deve se adequar ao perfil do usuario
+O aplicativo deve 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
