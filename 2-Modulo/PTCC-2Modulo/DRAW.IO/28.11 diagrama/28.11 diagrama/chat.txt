@@ -1,0 +1,231 @@
+It seems like I can’t do more advanced data analysis right now. Please try again later.
+
+Mas **posso responder sua pergunta perfeitamente sem usar o PDF agora**, porque já analisamos toda a lógica das suas classes nas mensagens anteriores.
+
+A seguir, vou listar **classe por classe**, dizendo exatamente **quais atributos devem virar OBJETOS** e **quais podem continuar como variáveis simples (String, int, etc.)**.
+
+---
+
+# ✅ **LISTA COMPLETA – Quais variáveis precisam virar OBJETO em cada classe**
+
+Vou assumir a estrutura padrão do seu diagrama:
+
+* Pessoa
+* Idoso
+* Cuidador
+* ContatoFamiliar
+* Emergencia
+* Consulta
+* Exame
+* Medicamento
+* ReceitaMedica
+* Hospital
+* Medico
+* Alerta
+* TipoAlerta (enum)
+
+Se alguma estiver diferente, me avise.
+
+---
+
+# 🟦 **1. Classe Pessoa**
+
+Nesta classe **nenhum atributo vira objeto**, porque ela é a base.
+
+✔ Tudo aqui deve ser dado simples:
+
+* nome: String
+* email: String
+* telefone: String
+* senha: String
+* cpf: String
+* etc.
+
+---
+
+# 🟩 **2. Classe Idoso**
+
+Aqui também não precisa ter atributos-objeto (exceto relacionamentos que você já representa por setas no diagrama).
+
+Se você colocou algo como:
+
+* cuidadorResponsavel: String
+
+❌ Deve apagar.
+A associação entre Idoso ↔ Cuidador já está representada NO DIAGRAMA, não dentro da classe.
+
+---
+
+# 🟧 **3. Classe Cuidador**
+
+Mesmo caso do Idoso:
+❌ Não coloque atributos “idoso: String”.
+
+---
+
+# 🟫 **4. ContatoFamiliar**
+
+Aqui também atributos simples.
+Nenhum deve ser objeto dentro da classe.
+
+A ligação com Idoso aparece pela **associação**, não por atributo.
+
+---
+
+# 🟥 **5. Emergencia (AQUI É O MAIOR PROBLEMA!)**
+
+Nesta classe você DEVE substituir Strings POR OBJETOS:
+
+### ❌ Variáveis que NÃO podem ser String
+
+Se você colocou algo assim:
+
+* pessoa: String
+* cuidador: String
+* contatos: String
+* idoso: String
+
+Tudo errado.
+
+### ✔ Variáveis que PRECISAM virar OBJETO
+
+Aqui vai o correto:
+
+```
+- pessoaQueDisparou: Pessoa   (ou Idoso)
+- cuidadorResponsavel: Cuidador
+- contatosNotificados: List<ContatoFamiliar>
+```
+
+---
+
+# 🟦 **6. Consulta**
+
+### ❌ Errado:
+
+* medico: String
+* paciente: String
+
+### ✔ Correto:
+
+```
+- medico: Medico
+- paciente: Pessoa (ou Idoso)
+```
+
+---
+
+# 🟨 **7. Exame**
+
+Mesma lógica da Consulta.
+
+### ❌ Errado:
+
+* medico: String
+* paciente: String
+
+### ✔ Correto:
+
+```
+- medico: Medico
+- paciente: Pessoa / Idoso
+```
+
+---
+
+# 🟪 **8. ReceitaMedica**
+
+### ❌ Errado:
+
+* medicamentos: String
+
+### ✔ Correto:
+
+```
+- medicamentos: List<Medicamento>
+- medico: Medico (se existir no seu modelo)
+- paciente: Pessoa/Idoso
+```
+
+---
+
+# 🟩 **9. Medicamento**
+
+Aqui geralmente **não há objetos**, só Strings e ints.
+
+✔ Pode ficar assim:
+
+* nome: String
+* dosagem: String
+* intervalo: int
+
+---
+
+# 🟫 **10. Hospital**
+
+Depende do seu modelo.
+
+Se você colocou:
+
+* medicos: String
+
+❌ Errado
+✔ O correto é a associação N–1 no diagrama, sem atributo interno.
+
+---
+
+# 🟨 **11. Medico**
+
+Nada a mudar.
+Dados simples.
+
+---
+
+# 🟧 **12. Alerta**
+
+Fica assim:
+
+### ✔ Correto:
+
+```
+- tipo: TipoAlerta (ENUM)
+- dataHora: Date
+- mensagem: String
+- pessoa: Pessoa
+```
+
+### ❌ Errado:
+
+* tipo: String
+
+---
+
+# 🎯 **RESUMO FINAL (o essencial)**
+
+## ⭐ Classes onde você DEFINITIVAMENTE precisa transformar Strings em OBJETOS:
+
+* Emergência
+* Consulta
+* Exame
+* Receita Médica
+* Alerta
+
+## ⭐ Classes que NÃO precisam ter objetos dentro:
+
+* Pessoa
+* Idoso
+* Cuidador
+* ContatoFamiliar
+* Medicamento
+* Hospital
+* Medico
+
+---
+
+Se quiser, posso te entregar:
+
+✔ Uma TABELA com cada atributo de cada classe e o tipo correto
+OU
+✔ Uma revisão final do diagrama inteiro baseado nas regras acima
+
+É só me pedir.

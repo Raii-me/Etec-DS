@@ -1,0 +1,12 @@
+CREATE DATABASE estacionamento;
+USE estacionamento;
+
+CREATE TABLE carro(
+placa char(7) not null PRIMARY KEY,
+cor varchar(20),
+descricao VARCHAR(100)
+);
+
+drop table carros;
+
+select * from carro;
