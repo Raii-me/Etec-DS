@@ -1,2 +1,2 @@
-# 1-Modulo-Etec
-Repositorio dedicado a todas as materias do modulo 1 da Etec
+# Todo o conteudo que eu fiz enquanto estudava na ETEC.
+Tem literalmente tudo, do primeiro arquivo HTML que eu fiz ate conteudo final do TCC
